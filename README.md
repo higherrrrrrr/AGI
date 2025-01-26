@@ -20,7 +20,7 @@
 1. **Clone or Download this Repo**
 
    ```bash
-   git clone https://github.com/yourusername/AGI.git
+   git clone https://github.com/higherrrrrrr/AGI.git
    cd AGI
    ```
 
